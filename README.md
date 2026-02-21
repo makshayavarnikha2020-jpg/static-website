@@ -11,7 +11,7 @@ To host a static HTML website using GitHub Pages.
 5. Accessed live website link.
 
 ## Live Website
-(Add your GitHub Pages link here)
+(https://makshayavarnikha2020-jpg.github.io/static-website/)
 
 ## Author
 M Akshaya Varnikha
